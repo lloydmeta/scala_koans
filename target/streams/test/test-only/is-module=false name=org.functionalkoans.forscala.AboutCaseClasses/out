@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mAboutCaseClasses:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Case classes have an automatic equals method that works[0m[0m
+[0m[[0minfo[0m] [0m[32m- Case classes have an automatic hashcode method that works[0m[0m
+[0m[[0minfo[0m] [0m[32m- Case classes have a convenient way they can be created[0m[0m
+[0m[[0minfo[0m] [0m[32m- Case classes have a convenient toString method defined[0m[0m
+[0m[[0minfo[0m] [0m[32m- Case classes have automatic properties[0m[0m
+[0m[[0minfo[0m] [0m[32m- Case classes can have mutable properties[0m[0m
+[0m[[0minfo[0m] [0m[32m- Safer alternatives exist for altering case classes[0m[0m
+[0m[[0minfo[0m] [0m[32m- Case classes have default and named parameters[0m[0m
+[0m[[0minfo[0m] [0m[32m- Case classes can be disassembled to their constituent parts as a tuple[0m[0m
