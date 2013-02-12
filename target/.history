@@ -1,3 +1,6 @@
 test:compile
 ~test-only org.functionalkoans.forscala.AboutAsserts
 ~test-only org.functionalkoans.forscala.AboutCaseClasses
+~test-only org.functionalkoans.forscala.AboutClasses
+~test-only org.functionalkoans.forscala.AboutConstructors
+~test-only org.functionalkoans.forscala.AboutEmptyValues
